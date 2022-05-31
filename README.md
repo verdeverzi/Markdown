@@ -40,4 +40,18 @@ print("hello")
 
 ![capture image](./images/screen.png)
 
-for more info, visit [Github Docs](https://github.com/FbW-WD-22-E05-A/Lessons/tree/master/1_Basic-Digital-Literacy/1.2_Basic-shell-commands#01.-man-&---help) website
+for more info, visit [Github Docs](https://github.com/FbW-WD-22-E05-A/Lessons/tree/master/1_Basic-Digital-Literacy/1.2_Basic-shell-commands#01.-man-&---help) websi
+
+
+
+| First Column | Second Column | Third Column|
+|:---          | :---        |        ---: |
+|Sudo          | Linux        | Windows     |
+|NPM           |Nodejs        | Code        |
+
+This project supports :
+- [x] Windows
+- [x] Linux
+- [ ] IOS 
+
+
