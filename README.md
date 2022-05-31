@@ -34,3 +34,10 @@ For python
 ```python
 print("hello")
 ```
+
+
+![online image](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
+
+![capture image](./images/screen.png)
+
+for more info, visit [Github Docs](https://github.com/FbW-WD-22-E05-A/Lessons/tree/master/1_Basic-Digital-Literacy/1.2_Basic-shell-commands#01.-man-&---help) website
